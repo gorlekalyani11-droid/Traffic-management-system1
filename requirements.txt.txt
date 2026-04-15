@@ -12,6 +12,4 @@ pandas==2.2.0
 python-dotenv==1.0.0
 eventlet==0.35.1
 werkzeug==3.0.1
-django
 gunicorn
-whitenoise
