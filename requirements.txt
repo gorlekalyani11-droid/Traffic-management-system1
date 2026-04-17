@@ -5,5 +5,5 @@ httpx
 pydantic
 opencv-python-headless
 numpy
-pillow==10.2.0
+pillow
 reportlab
