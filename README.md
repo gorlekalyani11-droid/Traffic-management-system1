@@ -1,4 +1,5 @@
 Traffic Management System using Machine Learning
+
 📌 Overview
 
 This project is a smart Traffic Management System developed using Machine Learning and Computer Vision techniques. The system monitors real-time traffic using surveillance cameras, detects vehicles, identifies traffic violations, and automatically generates fine notifications. It helps in reducing manual work and improving road safety.
