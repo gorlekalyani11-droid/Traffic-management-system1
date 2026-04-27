@@ -60,8 +60,7 @@ Traffic-Management-System/
 │── templates/
 │── database/
 │── requirements.txt
-│── README.md
-```
+│── README.md```
 
 
 
