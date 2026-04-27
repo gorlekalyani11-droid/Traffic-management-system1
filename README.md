@@ -49,18 +49,20 @@ The system is divided into multiple layers:
 
 ## 📂 Project Structure
 
+| Folder/File                | Description                           |
+| -------------------------- | ------------------------------------- |
+| Traffic-Management-System/ | Root directory of the project         |
+| app/                       | Main application folder               |
+| ├── main.py                | Entry point of the application        |
+| ├── routes/                | Contains API routes/endpoints         |
+| ├── models/                | Machine Learning models and logic     |
+| ├── utils/                 | Helper functions and utilities        |
+| static/                    | Stores static files (CSS, JS, images) |
+| templates/                 | HTML templates for UI                 |
+| database/                  | Database files and configurations     |
+| requirements.txt           | List of required Python packages      |
+| README.md                  | Project documentation file            |
 
-Traffic-Management-System/
-│── app/
-│   ├── main.py
-│   ├── routes/
-│   ├── models/
-│   ├── utils/
-│── static/
-│── templates/
-│── database/
-│── requirements.txt
-│── README.md
 
 
 
